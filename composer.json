@@ -1,5 +1,5 @@
 {
-    "name": "arya/nyebut",
+    "name": "arya229/nyebut",
     "description": "Sebuah package untuk merubah number menjadi sebutan angka, contoh 100 menjadi seratus",
     "type": "library",
     "autoload": {
