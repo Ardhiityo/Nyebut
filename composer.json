@@ -1,0 +1,23 @@
+{
+    "name": "arya/nyebut",
+    "description": "Sebuah package untuk merubah number menjadi sebutan angka, contoh 100 menjadi seratus",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Arya\\Nyebut\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "arya"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Arya\\Nyebut\\NyebutServiceProvider"
+            ]
+        }
+    }
+}
