@@ -1,3 +1,3 @@
 #Nyebut
 
-Sebuah package untuk merubah number menjadi sebutan angka, contoh 100 menjadi seratus
+Sebuah package laravel untuk merubah number menjadi sebutan angka, contoh 100 menjadi seratus
